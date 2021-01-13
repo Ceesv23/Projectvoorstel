@@ -4,6 +4,8 @@
 Wij hopen stemgerechtigden te kunnen ondersteunen in het maken van hun keuze. Wij willen daarvoor een website bouwen waarop een goed overzicht is te zien van alle politieke partijen en deze met elkaar te vergelijken zijn. Ook zal er een filter komen voor de verschillende partijen gebaseerd op hun standpunten. Ons idee is uniek in het feit dat onze website jou zelf laat zoeken naar jouw belangrijkste standpunten en op deze kan filteren om de partij te vinden die bij jou past.
 
 # Schetsen
+![Stemwijzer1](Projectvoorstel/Stemwijzer1.png)
+
 
 # Features
 
